@@ -57,7 +57,7 @@
     "@storybook/addon-backgrounds": "4.1.18",
     "@storybook/addon-info": "4.1.18",
     "@storybook/addon-links": "4.1.18",
-    "@storybook/addon-notes": "4.1.18",
+    "@storybook/addon-notes": "5.0.0",
     "@storybook/cli": "4.1.18",
     "@storybook/react": "4.1.18",
     "@storybook/storybook-deployer": "2.8.1",
