@@ -60,7 +60,7 @@
     "@storybook/addon-notes": "4.1.18",
     "@storybook/cli": "4.1.18",
     "@storybook/react": "4.1.18",
-    "@storybook/storybook-deployer": "2.8.1",
+    "@storybook/storybook-deployer": "2.8.4",
     "@svgr/cli": "4.1.0",
     "@svgr/core": "4.1.0",
     "babel-core": "7.0.0-bridge.0",
