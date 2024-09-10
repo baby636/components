@@ -59,7 +59,7 @@
     "@storybook/addon-links": "4.1.18",
     "@storybook/addon-notes": "4.1.18",
     "@storybook/cli": "4.1.18",
-    "@storybook/react": "4.1.18",
+    "@storybook/react": "6.2.0",
     "@storybook/storybook-deployer": "2.8.1",
     "@svgr/cli": "4.1.0",
     "@svgr/core": "4.1.0",
